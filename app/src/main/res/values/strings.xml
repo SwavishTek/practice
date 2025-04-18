@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tech Round Robin</string>
+    <string name="sceneview_usage">For Interview</string>
+    <string name="local_model">Load Model</string>
+</resources>
